@@ -1,0 +1,14 @@
+.section {
+  text-align: center;
+  display: contents;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(202, 200, 200);
+}
+
+.title {
+  text-align: center;
+  font-size: 30px;
+  margin-bottom: 40px;
+  filter: drop-shadow(0 4px 4px rgba(6, 107, 60, 0.397));
+}

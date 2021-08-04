@@ -1,0 +1,9 @@
+.notification {
+  margin-top: 0;
+  margin-bottom: 40px;
+  text-align: center;
+  font-size: 25px;
+  font-weight: 700;
+  color: rgb(84, 84, 119);
+  filter: drop-shadow(0 4px 4px rgba(6, 107, 60, 0.397));
+}
